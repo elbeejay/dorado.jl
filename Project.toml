@@ -1,4 +1,4 @@
-name = "doradojl"
+name = "dorado.jl"
 uuid = "a37edc3b-b77c-4438-b213-0a16a938891d"
 authors = ["jay <jayaram.hariharan@utexas.edu> and contributors"]
 version = "0.1.0"
