@@ -1,6 +1,6 @@
-using doradojl
+using Dorado
 using Test
 
-@testset "doradojl.jl" begin
+@testset "Dorado.jl" begin
     # Write your tests here.
 end
